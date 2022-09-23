@@ -1,0 +1,22 @@
+{
+  "name": "expresslearn",
+  "version": "1.0.0",
+  "description": "This is a learning of express_js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HarshitM17/Express_js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HarshitM17/Express_js/issues"
+  },
+  "homepage": "https://github.com/HarshitM17/Express_js#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
